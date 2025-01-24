@@ -7,3 +7,4 @@
 Audio samples: [https://nqwu.github.io/prosodygan](https://nqwu.github.io/prosodygan)
 
 
+The code will be released soon.
