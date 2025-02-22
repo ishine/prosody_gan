@@ -1,0 +1,7 @@
+mode: "test_all"
+model_dir: "Models/"
+val_data: "./test.txt"
+batch_size: 4
+data_path: "your_path"
+ref_wav: ""
+xvecter_x: 1

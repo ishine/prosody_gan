@@ -1,0 +1,34 @@
+mode: "test_extract_prosody_code"
+model_dir: "Models/"
+pretrained_model: ""
+lr: 0.0025
+batch_size: 4
+sentence_k: 0
+grad_clip_thresh: 25
+
+psdcode_dim: 4
+input_dim: 898
+bert_dim: 512
+mel_channels: 80
+xvector_dim: 512
+
+save_freq: 1
+log_interval: 10
+epochs: 10
+train_data: "./train.txt"
+val_data: "./valid.txt"
+data_path: "your_path"
+tdnn_finetune_epoch: 7
+
+without_bert: false
+character_voice_encoder: true
+mel_gan: true
+
+psd_gan: false
+psd_gan_without_condition: false
+rclossw: 1
+gnlossw: 1
+fmlossw: 10
+
+ref_wav: ""
+xvecter_x: 1
