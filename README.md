@@ -8,7 +8,7 @@
 
 Audio samples: [https://nqwu.github.io/prosodygan](https://nqwu.github.io/prosodygan)
 
-Due to copyright reasons, we cannot publicly release our training data or pre-trained models. This code is intended to help readers understand the specific implementation of the proposed methods. If you need to fully run the training pipeline, the following additional preparations are required:
+Due to copyright reasons, we cannot publicly release our training data or pre-trained models. If you need to fully run the training pipeline, the following additional preparations are required:
 
 ## Data Preparation
 
