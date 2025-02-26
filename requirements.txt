@@ -1,0 +1,6 @@
+librosa==0.6.0
+torch
+numpy
+pyworld
+PyYAML
+scipy
